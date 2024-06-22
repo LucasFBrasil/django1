@@ -1,3 +1,3 @@
 # django1
 
-Projeto testando as funcionalidades do django 
+- Testando as funcionalidades básicas do django a nivel de estudos
